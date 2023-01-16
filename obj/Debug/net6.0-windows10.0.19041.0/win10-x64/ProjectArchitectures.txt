@@ -1,0 +1,1 @@
+C:\Users\mihai\source\repos\ToDoApp_Proiect\ToDoApp\ToDoApp.csproj;x64

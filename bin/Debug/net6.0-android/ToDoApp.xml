@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ToDoApp</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:TodoApp.AsyncLazy`1" -->
+        <member name="T:TodoApp.Views.TodoItemPage">
+            <summary>
+            The class defines three event handlers, one for each button "Save", "Delete", and "Cancel" in the XAML code.
+            [XamlCompilation(XamlCompilationOptions.Compile)] attribute tells Xamarin.Forms to precompile the XAML markup for the class at build time, which can improve the performance of the application.
+            </summary>
+        </member>
+    </members>
+</doc>
